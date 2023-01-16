@@ -1,7 +1,8 @@
 # Source code of Self-Supervised Graph Completion for Incomplete Multi-View Clustering
 This repository provides the official implementation of the following paper:
 
-Self-Supervised Graph Completion for Incomplete Multi-View Clustering
+Self-Supervised Graph Completion for Incomplete Multi-View Clustering:
+
 Cheng Liu, Si Wu, Rui Li, Dazhi Jiang, and Hau-San Wong
 
 Bibtex of this paper:
