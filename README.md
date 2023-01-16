@@ -5,7 +5,7 @@ Self-Supervised Graph Completion for Incomplete Multi-View Clustering:
 
 Cheng Liu, Si Wu, Rui Li, Dazhi Jiang, and Hau-San Wong
 
-Bibtex of this paper:
+# Citation:
 
 @article{cliuSGC,
 
