@@ -4,9 +4,7 @@ This repository provides the official implementation of the following paper:
 Self-Supervised Graph Completion for Incomplete Multi-View Clustering
 Cheng Liu, Si Wu, Rui Li, Dazhi Jiang, and Hau-San Wong
 
-Bibtex
-
-If you find our code useful, please kindly consider to cite one of our papers as:
+Bibtex of this paper:
 
 @article{cliuSGC,
 
